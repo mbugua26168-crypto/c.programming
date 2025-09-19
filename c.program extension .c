@@ -1,0 +1,27 @@
+/*
+Name: Mbugua Ankal
+Reg:CT100/G/26168/25
+*/
+
+#include<stdio.h>
+
+int main(){
+int height , weight;
+long long phone;
+
+//input 
+printf("enter your height:");
+scanf("%d", & height);
+printf("enter your weight:");
+scanf("%d", weight);
+printf("enter your phone");
+scanf("%lld", &phone);
+
+//output
+printf("\n...your details...\n");
+printf("height:%d\n", height);
+printf ("weight:%d\n", weight);
+printf("phone:%d\n", phone);
+
+return 0;
+}
