@@ -1,6 +1,7 @@
 /*
 Name: Mbugua Ankal
 Reg:CT100/G/26168/25
+dep: program to prompt use to enter value
 */
 
 #include<stdio.h>
